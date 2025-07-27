@@ -61,5 +61,15 @@ python generate_ground_truth.py
 
 
 ### 🤖 3. Load Model di LLM Studio
+Pastikan model llava-v1.6-34b telah di load di LLMStudio
+Buka terminal prompt dan jalankan:
 
+```bash
+lms ls
+```
+Jika model sudah tampil, lanjutkan dengan menjalankan server:
+```bash
+lms start server
+```
+📡 Server akan berjalan di: http://localhost:1234/v1/chat/completions
 
