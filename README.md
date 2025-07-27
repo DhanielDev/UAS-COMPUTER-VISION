@@ -53,8 +53,13 @@ Salin seluruh folder ke dalam direktori proyek `UAS/`.
 ---
 
 ### 🛠️ 2. Generate Ground Truth
-Untuk mengubah label `.txt` menjadi file CSV yang siap dipakai evaluasi, jalankan:
+Untuk mengubah label `.txt`dan jpg menjadi file CSV yang siap dipakai evaluasi, jalankan:
 
 ```bash
 python generate_ground_truth.py
+
+---
+
+### 🤖 3. Load Model di LLM Studio
+
 
