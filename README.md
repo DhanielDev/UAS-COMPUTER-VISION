@@ -106,7 +106,7 @@ python main.py
 - File ini digunakan untuk evaluasi batch hasil OCR.
 
 
-<h1 align="center">Video UAS ComVis </h1>
+<h1 align="center">Video UAS Computer Vision </h1>
 
 <p align="center">
   <a href="https://youtu.be/3hoSv-DILDE" target="_blank">
