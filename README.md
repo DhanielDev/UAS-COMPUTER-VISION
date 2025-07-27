@@ -106,7 +106,7 @@ python main.py
 - File ini digunakan untuk evaluasi batch hasil OCR.
 
 
-<h1 align="center">Video Demo Robot</h1>
+<h1 align="center">Video UAS ComVis </h1>
 
 <p align="center">
   <a href="https://youtu.be/3hoSv-DILDE" target="_blank">
@@ -114,7 +114,7 @@ python main.py
   </a>
 </p>
 
-📺 Klik tombol di atas untuk melihat sistem ini bekerja secara langsung di bawah air!
+📺 Klik tombol di atas untuk melihat video YouTube UAS saya!
 
 
 
