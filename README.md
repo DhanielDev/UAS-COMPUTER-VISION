@@ -108,7 +108,7 @@ python main.py
 <h1 align="center">Video UAS Computer Vision </h1>
 
 <p align="center">
-  <a href="https://youtu.be/3hoSv-DILDE" target="_blank">
+  <a href="https://youtu.be/6zgk-CazAtY" target="_blank">
     <img src="https://img.shields.io/badge/Tonton_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Tonton di YouTube"/>
   </a>
 </p>
