@@ -26,12 +26,14 @@ Evaluasi hasil prediksi dilakukan dengan menghitung **Character Error Rate (CER)
 ## 📁 Struktur Folder
 
 UAS/
+│
 ├── test/
-│ ├── image/ ← gambar plat nomor (.jpg)
-│ └── label/ ← label ground truth (.txt)
-├── generate_ground_truth.py ← script untuk generate CSV dari label
-├── main.py ← script utama untuk inferensi dan evaluasi
-├── ground_truth.csv ← hasil generate dari label .txt
-├── results.csv ← hasil akhir evaluasi (prediksi + CER)
-└── README.md
+│ ├── image/ # Berisi gambar plat nomor (.jpg)
+│ └── label/ # Berisi label ground truth (.txt)
+│
+├── generate_ground_truth.py # Script untuk generate ground_truth.csv dari label .txt
+├── main.py # Script utama untuk inferensi dan evaluasi menggunakan LLM
+├── ground_truth.csv # Hasil penggabungan label ground truth (otomatis dibuat)
+├── results.csv # Hasil akhir evaluasi prediksi + nilai CER (otomatis dibuat)
+└── README.md # Dokumentasi proyek
 
