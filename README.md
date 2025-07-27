@@ -30,9 +30,9 @@ UAS/
 │ ├── image/ # 📸 Gambar plat nomor (.jpg)
 │ └── label/ # 📝 Label ground truth (.txt)
 │
-├── generate_ground_truth.py # ⚙️ Script untuk generate ground_truth.csv dari label
+├── generate_ground_truth.py # ⚙️ Script untuk generate ground_truth.csv 
 ├── main.py # 🚀 Script utama untuk inferensi dan evaluasi LLM
-├── ground_truth.csv # 📄 Data label hasil penggabungan dari .txt
+├── ground_truth.csv # 📄 Data label hasil penggabungan dari .txt dan jpg tadi
 ├── results.csv # 📊 Hasil akhir: prediksi + nilai CER
 └── README.md # 📘 Dokumentasi lengkap proyek
 ```
