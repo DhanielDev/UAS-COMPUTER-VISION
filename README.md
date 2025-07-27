@@ -73,3 +73,21 @@ lms start server
 ```
 📡 Server akan berjalan di: http://localhost:1234/v1/chat/completions
 
+### ▶️ 4. Jalankan Program Utama
+Untuk menjalankan inferensi dan evaluasi otomatis:
+```bash
+python main.py
+```
+
+✅ Fungsi program:
+
+Membaca gambar dari test/image
+
+Mengirim permintaan OCR ke LLM
+
+Menghitung CER untuk tiap gambar
+
+Menyimpan hasil ke results.csv
+
+
+
