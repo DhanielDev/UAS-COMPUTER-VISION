@@ -90,4 +90,20 @@ python main.py
 - Menyimpan hasil ke results.csv
 
 
+### 📊 5. Output File — results.csv
+## contoh :
+image	        ground_truth  	prediction	    CER_formula	               CER_score
+test001_1.jpg	    B9140BCD	        9140	    CER = (0 + 4 + 0) / 8   	      0.5
+test001_2.jpg	    B2407UZO	        B2407UZ	  CER = (0 + 1 + 0) / 8	         0.125
+
+🔎 Keterangan:
+
+- CER_formula adalah rumus untuk menghitung Character Error Rate = (jumlah karakter salah / jumlah karakter ground truth) × 100.
+- CER_score adalah hasil akhirnya dalam bentuk desimal.
+- Semakin rendah CER_score, semakin akurat prediksinya.
+- File ini digunakan untuk evaluasi batch hasil OCR.
+
+
+
+
 
