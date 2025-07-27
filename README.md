@@ -81,13 +81,13 @@ python main.py
 
 ✅ Fungsi program:
 
-Membaca gambar dari test/image
+- Membaca gambar dari test/image
 
-Mengirim permintaan OCR ke LLM
+- Mengirim permintaan OCR ke LLM
 
-Menghitung CER untuk tiap gambar
+- Menghitung CER untuk tiap gambar
 
-Menyimpan hasil ke results.csv
+- Menyimpan hasil ke results.csv
 
 
 
