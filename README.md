@@ -17,7 +17,7 @@
 
 ## 🧠 Deskripsi Singkat
 
-Proyek ini bertujuan untuk melakukan inferensi **OCR (Optical Character Recognition)** pada gambar plat nomor kendaraan Indonesia menggunakan **Visual Language Model (VLM)** dari **LLM Studio**.
+Proyek ini bertujuan untuk melakukan inferensi **OCR (Optical Character Recognition)** pada gambar plat nomor kendaraan menggunakan **Visual Language Model (VLM)** dari **LLM Studio**.
 
 Evaluasi hasil prediksi dilakukan dengan menghitung **Character Error Rate (CER)**, sehingga dapat diketahui tingkat akurasi sistem secara objektif.
 
