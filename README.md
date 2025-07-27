@@ -8,7 +8,7 @@
 <h3 align="center">Integrasi Visual Language Model (VLM) dan Python untuk Inferensi Teks Otomatis</h3>
 
 <p align="center">
-  🎓 Proyek Tugas Akhir UAS Komputer Visi oleh Dhaniel Beny Wardhana <br>
+  🎓 Proyek Ujian Akhir Semester UAS Komputer Vision oleh Dhaniel Beny Wardhana <br>
   🤖 Menggunakan LLM Studio & Model llava-v1.6-34b untuk mengenali plat nomor kendaraan <br>
   📊 Evaluasi dengan Character Error Rate (CER) secara otomatis
 </p>
@@ -24,4 +24,14 @@ Evaluasi hasil prediksi dilakukan dengan menghitung **Character Error Rate (CER)
 ---
 
 ## 📁 Struktur Folder
+
+UAS/
+├── test/
+│ ├── image/ ← gambar plat nomor (.jpg)
+│ └── label/ ← label ground truth (.txt)
+├── generate_ground_truth.py ← script untuk generate CSV dari label
+├── main.py ← script utama untuk inferensi dan evaluasi
+├── ground_truth.csv ← hasil generate dari label .txt
+├── results.csv ← hasil akhir evaluasi (prediksi + CER)
+└── README.md
 
