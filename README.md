@@ -92,9 +92,11 @@ python main.py
 
 ### 📊 5. Output File — results.csv
 ## contoh :
-image	        ground_truth  	prediction	    CER_formula	               CER_score
-test001_1.jpg	    B9140BCD	        9140	    CER = (0 + 4 + 0) / 8   	      0.5
-test001_2.jpg	    B2407UZO	        B2407UZ	  CER = (0 + 1 + 0) / 8	         0.125
+
+| image           | ground_truth | prediction   | CER_formula           | CER_score |
+|-----------------|---------------|-------------|--------------------   |-----------|
+| test001_1.jpg	  | B9140BCD      | 9140        | CER = (0 + 4 + 0) / 8 |    0.5    |
+| test001_2.jpg   | B2407UZO      | B2407UZ     | CER = (0 + 1 + 0) / 8	|   0.125   |
 
 🔎 Keterangan:
 
