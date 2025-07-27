@@ -109,7 +109,7 @@ python main.py
 
 <p align="center">
   <a href="https://youtu.be/6zgk-CazAtY" target="_blank">
-    <img src="https://img.shields.io/badge/Tonton_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Tonton di YouTube"/>
+    <img src="https://img.shields.io/badge/Tonton_Edukasi-YouTube-red?style=for-the-badge&logo=youtube" alt="Tonton di YouTube"/>
   </a>
 </p>
 
