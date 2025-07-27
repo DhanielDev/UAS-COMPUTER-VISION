@@ -33,6 +33,6 @@ UAS/
 ├── generate_ground_truth.py # ⚙️ Script untuk generate ground_truth.csv 
 ├── main.py # 🚀 Script utama untuk inferensi dan evaluasi LLM
 ├── ground_truth.csv # 📄 Data label hasil penggabungan dari .txt dan jpg tadi
-├── results.csv # 📊 Hasil akhir: prediksi + nilai CER
-└── README.md # 📘 Dokumentasi lengkap proyek
+└── results.csv # 📊 Hasil akhir: image,	ground_truth,	prediction,	CER_score
+
 ```
