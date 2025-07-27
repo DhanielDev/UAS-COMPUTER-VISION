@@ -24,6 +24,7 @@ Evaluasi hasil prediksi dilakukan dengan menghitung **Character Error Rate (CER)
 ---
 
 ## 📁 Struktur Folder
+```
 UAS/
 ├── test/
 │ ├── image/ # 📸 Gambar plat nomor (.jpg)
@@ -34,4 +35,4 @@ UAS/
 ├── ground_truth.csv # 📄 Data label hasil penggabungan dari .txt
 ├── results.csv # 📊 Hasil akhir: prediksi + nilai CER
 └── README.md # 📘 Dokumentasi lengkap proyek
-
+```
