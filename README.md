@@ -100,7 +100,7 @@ python main.py
 
 🔎 Keterangan:
 
-- CER_formula adalah rumus untuk menghitung Character Error Rate = (jumlah karakter salah / jumlah karakter ground truth) × 100.
+- CER_formula adalah rumus perhitungan rata-rata Character Error Rate (CER) dari beberapa hasil prediksi OCR.
 - CER_score adalah hasil akhirnya dalam bentuk desimal.
 - Semakin rendah CER_score, semakin akurat prediksinya.
 - File ini digunakan untuk evaluasi batch hasil OCR.
