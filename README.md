@@ -36,3 +36,25 @@ UAS/
 └── results.csv # 📊 Hasil akhir: image,	ground_truth,	prediction,	CER_score
 
 ```
+
+
+---
+
+## 🚀 Langkah Eksekusi
+
+### 🧾 1. Salin Dataset
+- Ambil folder `test` dari dataset **"Indonesian License Plate Recognition"** yang diberikan dosen.
+- Folder `test` berisi:
+  - `image/` → gambar plat nomor (.jpg)
+  - `label/` → label plat nomor dalam format `.txt`
+
+Salin seluruh folder ke dalam direktori proyek `UAS/`.
+
+---
+
+### 🛠️ 2. Generate Ground Truth
+Untuk mengubah label `.txt` menjadi file CSV yang siap dipakai evaluasi, jalankan:
+
+```bash
+python generate_ground_truth.py
+
