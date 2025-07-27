@@ -1,7 +1,6 @@
 # 🔍 Indonesian License Plate Recognition — UAS Computer Vision
 
 <h1 align="center">
-  <img src="assets/license_plate_ocr.png" width="200"/><br>
   Proyek UAS — OCR Plat Nomor 
 </h1>
 
