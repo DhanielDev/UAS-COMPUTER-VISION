@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="assets/license_plate_ocr.png" width="200"/><br>
-  Proyek UAS — OCR Plat Nomor Indonesia
+  Proyek UAS — OCR Plat Nomor 
 </h1>
 
 <h3 align="center">Integrasi Visual Language Model (VLM) dan Python untuk Inferensi Teks Otomatis</h3>
